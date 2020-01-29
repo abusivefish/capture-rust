@@ -6,7 +6,7 @@
 // see: https://toshiba.semicon-storage.com/info/docget.jsp?did=35655&prodName=TC358743XBG
 
 
-// THIS IS NOT SUPPORTED BY LINUX YET
+// THIS IS NOT SUPPORTED BY LINUX YET - need a dev kit and some documentation to get started with it. 
 // tc358840xbg
 // 3840x2160, 30fps, 24bpp
 // 
