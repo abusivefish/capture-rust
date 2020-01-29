@@ -1,0 +1,11 @@
+[package]
+name = "capture_rust"
+version = "0.1.0"
+authors = ["ui-claw <connor.claw@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rust_gpiozero = "0.2.0"
+rscam = "0.5.5"
